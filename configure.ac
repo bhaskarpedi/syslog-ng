@@ -783,6 +783,7 @@ AC_CHECK_FUNCS(strdup		\
 	strcasestr		\
 	memrchr			\
 	localtime_r		\
+	getprotobynumber_r	\
 	gmtime_r		\
 	strnlen			\
 	strtok_r)
